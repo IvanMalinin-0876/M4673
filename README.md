@@ -1,4 +1,4 @@
-# mxgraph-editor
+# mxgraph-editor (Своя ветвь проекта, проект тут  https://github.com/korbinzhao )
 A mxGraph editor support 3 types of shapes, svg/image/card. 
 
 ![](https://img.alicdn.com/tfs/TB17cJ1GXzqK1RjSZSgXXcpAVXa-2880-1416.png)
